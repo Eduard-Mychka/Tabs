@@ -1,2 +1,2 @@
 # Tabs
-https://eduard-mychka.github.io/Tabs/.
+https://eduard-mychka.github.io/tabs/.
