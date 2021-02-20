@@ -1,2 +1,1 @@
-# Tabs
-https://eduard-mychka.github.io/tabs/.
+# [Tabs](https://eduard-mychka.github.io/tabs/)
